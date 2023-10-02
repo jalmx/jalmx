@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @jalmx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Linux, Open source
+- 🌱 I’m currently learning Dart, Flutter
+- 💞️ I’m looking to collaborate on Open source
+- 
 
-<!---
-jalmx/jalmx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My channels from Youtube:
+- [Xizuth](https://www.youtube.com/@xizuth)
+- [Alejandro Leyva](https://www.youtube.com/@AlejandroLeyvax)
